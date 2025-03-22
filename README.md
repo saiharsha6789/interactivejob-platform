@@ -3,4 +3,6 @@ This project presents a comprehensive job portal system developed comprising mod
 
 
 ## Features
-  1.
+  1.User registartion and profiles
+  2.Job and internship listings
+  3.Interactive Dashboard
